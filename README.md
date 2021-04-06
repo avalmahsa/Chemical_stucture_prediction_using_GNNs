@@ -1,4 +1,4 @@
-# Chemical_stucture_prediction_using_GNNs
+# Chemical stucture prediction using GNNs
 - preprocessing data
 - parameter search
 - pipelining
